@@ -1,1 +1,3 @@
-<video src="https://github.com/Nilansh7/AskDocs/blob/main/demo.mp4" width="600" controls></video>
+## 🎥 Demo Video
+
+👉 [Click here to download and watch the demo](https://github.com/Nilansh7/AskDocs/raw/main/demo.mp4)
