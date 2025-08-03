@@ -5,7 +5,9 @@
 </p>
 
 
-<video src="https://raw.githubusercontent.com/Nilansh7/AskDocs/main/demo.mp4" controls width="100%" muted autoplay loop></video>
+## Video Source
+
+[Click here to download the full demo video](https://raw.githubusercontent.com/Nilansh7/AskDocs/main/demo.mp4)
 
 # 🤖 AskDocs – RAG-based Document Chatbot
 
