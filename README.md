@@ -1,4 +1,9 @@
-## 🎥 Demo Video
+## 🎥 Demo GIF</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nilansh7/AskDocs/main/demo.gif" alt="Demo" />
+</p>
+
 
 <video src="https://raw.githubusercontent.com/Nilansh7/AskDocs/main/demo.mp4" controls width="100%" muted autoplay loop></video>
 
