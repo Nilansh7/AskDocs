@@ -76,7 +76,7 @@ src="https://raw.githubusercontent.com/Nilansh7/AskDocs/main/Sample_2.jpg"
 
 Got ideas to enhance this project? Found a bug or want to add a new feature?
 
-You're welcome to [open an issue](https://github.com/Nilansh7/AskDocs/issues) or submit a pull request — contributions of all kinds are appreciated!
+You're welcome to [open an issue](https://github.com/Nilansh7/AskDocs/issues) contributions of all kinds are appreciated!
 
 If you’d like to collaborate, suggest improvements, or need help getting started,  
 **feel free to reach out anytime.**
