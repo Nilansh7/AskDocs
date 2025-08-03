@@ -18,33 +18,37 @@ The chatbot works by following five-step pipeline:
 
 ## Technical Choices
 
-Embedding Model: all-MiniLM-L6-v2 was chosen because it is an efficient and effective model for creating text embeddings.
-Vector Database: FAISS was used for its speed and simplicity in performing vector similarity searches.
-LLM (Large Language Model): Llama 3 (llama3-8b-8192) was selected from the Groq API. This is a powerful, open-source model that provides very fast, free, and stable responses, fulfilling the assignment requirements.
+**Embedding Model:** all-MiniLM-L6-v2 was chosen because it is an efficient and effective model for creating text embeddings.
+**Vector Database:** FAISS was used for its speed and simplicity in performing vector similarity searches.
+**LLM (Large Language Model):** Llama 3 (llama3-8b-8192) was selected from the Groq API. This is a powerful, open-source model that provides very fast, free, and stable responses, fulfilling the assignment requirements.
 
 ## How to Run the Chatbot
 
 Follow these simple steps to set up and run the application on your local machine.
 
-Step 1: Set up Your Environment
+### Step 1: Set up Your Environment
 
-First, install all the required Python libraries.
+Install all the required Python libraries:
+
+```bash
 pip install streamlit groq sentence-transformers faiss-cpu PyMuPDF python-dotenv
+```
 
-Step 2: Set Your API Key
-
+### Step 2: Set Your API Key
 Create a file named .env in the root of your project folder. In this file, add your Groq API key in the following format:
+
+```bash
 GROQ_API_KEY='your_groq_api_key_here'
+```
+Replace 'your_groq_api_key_here' with your actual Groq API key.
 
-Replace 'your_groq_api_key_here' with the actual key from your Groq account.
-
-Step 3: Launch the Application
-
+### Step 3: Launch the Application
 Run the following command in your terminal to start the Streamlit web application:
-Bash
+```bash
 python -m streamlit run app.py
-
+```
 A web browser tab will open automatically, and you can start interacting with the chatbot.
+
 
 
 
