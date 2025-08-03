@@ -1,6 +1,6 @@
 ## 🎥 Demo Video
 
-👉 [Click here to download and watch the demo](https://github.com/Nilansh7/AskDocs/raw/main/demo.mp4)
+<video src="https://raw.githubusercontent.com/Nilansh7/AskDocs/main/demo.mp4" controls width="100%" muted autoplay loop></video>
 
 # 🤖 AskDocs – RAG-based Document Chatbot
 
