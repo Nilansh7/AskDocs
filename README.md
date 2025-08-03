@@ -57,6 +57,36 @@ python -m streamlit run app.py
 A web browser tab will open automatically, and you can start interacting with the chatbot.
 
 
+## Sample
+
+<p align="center">
+  <img 
+src="https://raw.githubusercontent.com/Nilansh7/AskDocs/main/Sample_1.jpg"
+ alt="Sample Screenshot 1" width="600"/><br><br>
+
+  
+<p align="center">
+  <img 
+src="https://raw.githubusercontent.com/Nilansh7/AskDocs/main/Sample_2.jpg"
+ alt="Sample Screenshot 2" width="600"/>
+</p>
+
+
+### Contributing
+
+Got ideas to enhance this project? Found a bug or want to add a new feature?
+
+You're welcome to [open an issue](https://github.com/Nilansh7/AskDocs/issues) or submit a pull request — contributions of all kinds are appreciated!
+
+If you’d like to collaborate, suggest improvements, or need help getting started,  
+**feel free to reach out anytime.**
+
+📬 **Let’s connect:**  
+📧 **Email:** [s.nilansh07@gmail.com](mailto:s.nilansh07@gmail.com)
+
+
+
+
 
 
 
