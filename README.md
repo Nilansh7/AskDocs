@@ -4,7 +4,7 @@
 
 # 🤖 AskDocs – RAG-based Document Chatbot
 
-This project is a **chatbot that answers questions based on a specific document (e.g., a PDF file). It uses a technique called Retrieval-Augmented Generation (RAG) to ensure that its answers are accurate and directly sourced from the document, rather than relying on its general knowledge.
+This project is a **chatbot that answers questions based on a specific document (e.g., a PDF file).** It uses a technique called Retrieval-Augmented Generation (RAG) to ensure that its answers are accurate and directly sourced from the document, rather than relying on its general knowledge.
 The chatbot has a user-friendly interface built with Streamlit, where you can upload your document and then ask questions.
 
 ## Project Architecture and Flow
